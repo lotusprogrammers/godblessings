@@ -1,3 +1,3 @@
 # godblessings
 
-Lotus Programmers creates Virtual World creates happiness for physical world.
+Lotus Programmers creates Virtual World which makes physical world happy and secure.
